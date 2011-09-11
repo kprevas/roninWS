@@ -1,0 +1,6 @@
+<ivy-module version="2.0">
+  <info organisation="ronin" module="roninWS" revision="1.0"/>
+  <publications>
+    <artifact name="roninWS"/>
+  </publications>
+</ivy-module>
